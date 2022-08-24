@@ -2,11 +2,11 @@
 
 <h1> Heyy <img src='https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif' height='25px' />, I'm Andryel Blanco! </h1>
 
-- 🔥 Jr React Developer
+- 🔥 FULLSTACK DEVELOPER
 
 - 👨‍💻 All of my projects are available at [andryelblanco.online](https://andryelblanco.vercel.app/)
 
-- 💬 Ask me about **Javascript, ReactJS, Figma, Html, Css, Styled-Components**
+- 💬 Ask me about **Javascript, ReactJS, Figma, Html, Css, Styled-Components, C#, .NET**
 <div style='display: inline-block'>
   <h2>:mag: You find me here</h2>
   <a href='https://www.linkedin.com/in/andryel-blanco/'>
